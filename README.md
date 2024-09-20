@@ -1,6 +1,6 @@
 ## Public information
 
-Hello my name is Fabiano Luiz and currently i'm a Softwarre Engineer at CI&T, I'm currently using React Hello, my name is Gleison Brito, and I am currently a professor at COTEMIG College and PROZ Educação. I teach subjects related to Software Project (Project Management and Systems Analysis), as well as Front and Back-End Development. I currently work with languages such as JavaScript, C#, PHP, Java, and C++.
+Hello, my name is Gleison Brito, and I am currently a professor at COTEMIG College and PROZ Educação. I teach subjects related to Software Project (Project Management and Systems Analysis), as well as Front and Back-End Development. I currently work with languages such as JavaScript, C#, PHP, Java, and C++.
 
 I am always looking to learn and explore new areas, with a special interest in Software Processes, Systems Modeling, Mining Software Repositories, API Development, and Teaching Programming. I am also interested in exploring possibilities for using Machine Learning to enhance the performance of development teams.
 
