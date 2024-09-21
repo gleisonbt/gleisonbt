@@ -7,7 +7,7 @@ I am always looking to learn and explore new areas, with a special interest in S
 ## Detailed information
 
 - **Name**: Gleison Brito
-- **Age**: 29
+- **Age**: 31
 - **Living in**: Belo Horizonte, MG - Brazil
 - **Stack**: PHP - Laravel - C# - .NET Framework - JavaScript - ReactJS - java - Spring
 
